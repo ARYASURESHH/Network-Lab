@@ -1,0 +1,14 @@
+﻿EXPERIMENT 8
+mca@MCA14:~/Arya/networklab/lab1$ chmod +x evenodd.sh
+mca@MCA14:~/Arya/networklab/lab1$ ./evenodd.sh
+Enter a number:
+6
+6 is Even
+
+EXPERIMENT 9
+
+mca@MCA14:~/Arya/networklab/lab1$ chmod +x largest.sh
+mca@MCA14:~/Arya/networklab/lab1$ ./largest.sh
+Enter three numbers:
+43  76 2
+Largest number is: 76
