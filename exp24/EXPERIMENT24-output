@@ -1,0 +1,46 @@
+mca@MCA14:~/Desktop/network/exp24$ chmod +x rightangle.sh
+mca@MCA14:~/Desktop/network/exp24$ ./rightangle.sh
+Enter number of rows:
+4
+* 
+* * 
+* * * 
+* * * * 
+mca@MCA14:~/Desktop/network/exp24$ chmod +x Invertedtriangle.sh
+mca@MCA14:~/Desktop/network/exp24$ ./Invertedtriangle.sh
+Enter number of rows:4
+* * * * 
+* * * 
+* * 
+* 
+mca@MCA14:~/Desktop/network/exp24$ chmod +x pyramid.sh
+mca@MCA14:~/Desktop/network/exp24$ ./pyramid.sh
+Enter number of rows:4
+   * 
+  * * 
+ * * * 
+* * * * 
+mca@MCA14:~/Desktop/network/exp24$ chmod +x NumTriangle.sh
+mca@MCA14:~/Desktop/network/exp24$ ./NumTriangle.sh
+Enter number of rows:4
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+mca@MCA14:~/Desktop/network/exp24$ chmod +x InvertedNumTri.sh
+mca@MCA14:~/Desktop/network/exp24$ ./InvertedNumTri.sh
+Enter number of rows: 4
+1 2 3 4 
+1 2 3 
+1 2 
+1 
+mca@MCA14:~/Desktop/network/exp24$ chmod +x Floyd.sh
+mca@MCA14:~/Desktop/network/exp24$ ./Floyd.sh
+Enter number of rows: 4
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+mca@MCA14:~/Desktop/network/exp24$ 
+
+
